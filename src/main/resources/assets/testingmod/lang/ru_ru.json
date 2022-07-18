@@ -1,3 +1,4 @@
 {
-  "item.testingmod.mythril_ingot" : "Мифрилловый Слиток"
+  "item.testingmod.mythril_ingot" : "Мифрилловый Слиток",
+  "block.testingmod.mythril_block" : "Мифрилловый Блок"
 }

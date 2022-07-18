@@ -1,0 +1,6 @@
+{
+  "paren" : "block/cube_all",
+  "textures" : {
+    "all" : "testingmod:block/mythril_block"
+  }
+}

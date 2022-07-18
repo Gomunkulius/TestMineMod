@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : {"model" : "testingmod:block/mythril_block"}
+  }
+}
